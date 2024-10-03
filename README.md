@@ -1,5 +1,7 @@
-## Hi there 👋
+## ola sou wesley 👋
+estou desenvolvendo scratch e java script
 
+![aventura](https://media.tenor.com/dqsnyKlq2p4AAAAM/canoeing-will-smith.gif)
 <!--
 **estudanteluraW/estudanteluraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
